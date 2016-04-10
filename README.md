@@ -1,9 +1,9 @@
 # LaStoriaInGiallo-RossoScarlatto-CuoreDiTenebra
 
-Links per saricare puntate dei programmi di Radio3:
-    * La Storia in Giallo
-    * Rosso Scarlatto
-    * Cuore di Tenebra (parziale)
+Links per saricare puntate dei programmi di Radio3:  
+    - La Storia in Giallo  
+    - Rosso Scarlatto  
+    - Cuore di Tenebra (parziale)  
   
 In teoria dovrebbero essere disponibili tramite i siti della Rai ma il servizio pubblico è... imperfetto.  
 
